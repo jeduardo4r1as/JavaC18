@@ -9,6 +9,8 @@ public class EstructurasIFElse {
 
 
         Scanner scanner = new Scanner(System.in);
+
+        /*
 //
 //        System.out.println("Digite su edad");
 //        int edad = scanner.nextInt();
@@ -19,7 +21,7 @@ public class EstructurasIFElse {
 //        }else {
 //            System.out.println("Eres menor de edad.");
 //        }
-
+ */
 
         System.out.println("Digite una opcion");
         int opcion = scanner.nextInt();
